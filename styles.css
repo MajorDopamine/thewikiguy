@@ -1,5 +1,6 @@
 body{
     margin: 0;
-    background: black;
+    background-image: linear-gradient(to right, teal,black);
     text-align: center;
+    color: white;
 }
